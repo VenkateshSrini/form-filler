@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# MontyDB data files
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Gradio temp files
+gradio_cached_examples/
